@@ -5,4 +5,4 @@ resources:
 - ../../base
 images:
 - name: ghcr.io/gerardo8a/demo-app
-  newTag: 4e6fed04018e1fd11ed16b3a2477376fda91ceb6
+  newTag: 8036969ea739b0426a104daa570163866e1671b8
